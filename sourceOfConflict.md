@@ -1,10 +1,10 @@
- ![banner](img/kitten.jpg)
+ ![banner](img/castle.jpg)
 
- # Lorem ipsum sic header
+ # This is Florins HEADER
 
 * List
 * of
 * bullet
 * points
 
-<p> There <span style="color:red">is a bug</span> in this file</p>
+<p> There <span>is no bug</span> in this file</p>
